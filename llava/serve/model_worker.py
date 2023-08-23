@@ -247,6 +247,8 @@ async def get_status(request: Request):
     return worker.get_status()
 
 
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--host", type=str, default="localhost")

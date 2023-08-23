@@ -24,3 +24,5 @@ output
 
 checkpoints
 ckpts*
+serve_images/
+
